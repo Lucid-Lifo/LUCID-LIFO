@@ -2,13 +2,14 @@
 
 ![](Resources/gif.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=30&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hello%2C+My+Name+is+Allen Kurian Thomas!;🧠+I'm+a+Full+Stack+Developer+%7C+Software+Tester;+Python+%7C+Java+%7C+SQL+%7C+Selenium;+Turning+ideas+into+softwares!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=30&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello%2C+My+Name+is+Allen+Kurian+Thomas!;%F0%9F%A7%A0+Full+Stack+Developer+%7C+Software+Tester;%F0%9F%94%A7+Python+%7C+Java+%7C+SQL+%7C+Selenium;%F0%9F%93%88+Turning+Ideas+Into+Software!" alt="Typing SVG" />
 </h1>
+
 
 
 ## 🐍 My GitHub Contribution Snake
 
-![Snake animation]
+![Snake animation](https://github.com/Lucid-Lifo/Lucid-Lifo/blob/output/snake.svg)
 
 
 
