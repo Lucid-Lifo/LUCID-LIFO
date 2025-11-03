@@ -1,8 +1,7 @@
 <!-- FLASHY DARK GITHUB PROFILE README FOR ALLEN KURIAN THOMAS -->
 <div align="center">
-  <img src="Resources/gif-frame.svg" width="100%" />
+  <img src="Resources/gif-frame.svg" width="100%" alt="Cyber Banner"/>
 </div>
-
 <p align="center">
   <img src="Resources/dividers/cyber-divider.svg" width="100%" />
 </p>
