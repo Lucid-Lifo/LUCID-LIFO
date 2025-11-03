@@ -1,7 +1,4 @@
 <!-- FLASHY DARK GITHUB PROFILE README FOR ALLEN KURIAN THOMAS -->
-
-![](Resources/gif.gif)
-
 <div align="center">
   <img src="Resources/gif.gif" style="
     width:100%;
