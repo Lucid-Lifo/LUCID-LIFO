@@ -9,19 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate the Snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: "Lucid-Lifo"
-          svg_out_path: "dist/snake.svg"  
+          outputs: dist/snake.svg   # ✅ correct for v3
 
-      - name: Push snake to the output branch
+      - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist                 
+          target_branch: output      # ✅ auto-creates branch if missing
+          build_dir: dist            # ✅ now exists because dist/snake.svg was generated
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
