@@ -1,7 +1,8 @@
 <!-- FLASHY DARK GITHUB PROFILE README FOR ALLEN KURIAN THOMAS -->
-<div align="center">
-  <img src="Resources/gif.gif" style="width:100%; max-width:900px; border-radius:14px; box-shadow:0 0 25px #7A4FFF;" />
+<div style="width:100vw; overflow:hidden; display:flex; justify-content:center;">
+  <img src="Resources/gif.gif" style="width:100%; min-width:1200px;" />
 </div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=00E7FF&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+I'm+Allen+Kurian+Thomas!;Full+Stack+Developer+%7C+Software+Tester;Building+Secure+and+Reliable+Applications;Always+Learning+Always+Improving+🚀" alt="Typing SVG" />
