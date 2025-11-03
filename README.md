@@ -23,7 +23,6 @@
       <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Selenium" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=tableau&logoColor=white" alt="" />
       <img src="https://img.shields.io/badge/C%20Programming-FFC107?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
